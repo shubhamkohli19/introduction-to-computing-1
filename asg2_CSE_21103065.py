@@ -74,6 +74,7 @@ if "name" in input_string:
     print("Yes")  # Yes, the input entered by the user have the substring 'name' in it
 else:
     print("No")  # No, the input entered by the user doesn't have the substring 'name' in it
+print()
 
 # Question-6
 
